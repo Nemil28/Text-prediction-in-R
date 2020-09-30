@@ -9,3 +9,6 @@ Following links point to the final project and the project presentation pitch.
 
 ### Final Project Presentation Slide
 [Presentation](https://rpubs.com/Nemil28/668435)
+
+#### A copy of the dataset used for this project can be downloaded from here
+[Dataset](https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip)
